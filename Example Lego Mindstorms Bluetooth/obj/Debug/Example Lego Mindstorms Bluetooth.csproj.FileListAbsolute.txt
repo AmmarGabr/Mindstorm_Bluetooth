@@ -1,0 +1,85 @@
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe.config
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.pdb
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.dll
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.xml
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.LegoMindstormsForm.resources
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.Properties.Resources.resources
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.GenerateResource.Cache
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\874156\Desktop\Example Lego Mindstorms Bluetooth\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.pdb
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe.config
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.pdb
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.pdb
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.dll
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio - example application\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.xml
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.LegoMindstormsForm.resources
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.Properties.Resources.resources
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio - example application\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio- Robot Ammar Gabr\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe.config
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio- Robot Ammar Gabr\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio- Robot Ammar Gabr\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.pdb
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio- Robot Ammar Gabr\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio- Robot Ammar Gabr\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.pdb
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio- Robot Ammar Gabr\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.dll
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio- Robot Ammar Gabr\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.xml
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio- Robot Ammar Gabr\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio- Robot Ammar Gabr\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.LegoMindstormsForm.resources
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio- Robot Ammar Gabr\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.Properties.Resources.resources
+C:\Users\User\Desktop\ICT\FIS2\week 3\Visual Studio- Robot Ammar Gabr\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.GenerateResource.Cache
+E:\GitLab\Robot\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe.config
+E:\GitLab\Robot\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.exe
+E:\GitLab\Robot\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.pdb
+E:\GitLab\Robot\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe
+E:\GitLab\Robot\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.pdb
+E:\GitLab\Robot\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.dll
+E:\GitLab\Robot\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.xml
+E:\GitLab\Robot\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csprojResolveAssemblyReference.cache
+E:\GitLab\Robot\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.LegoMindstormsForm.resources
+E:\GitLab\Robot\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.Properties.Resources.resources
+E:\GitLab\Robot\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\gitlab\Robot\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe.config
+C:\Users\User\Desktop\gitlab\Robot\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\User\Desktop\gitlab\Robot\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.pdb
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master-f1b90d904482f362e8e29e1f3ef7a01f11b3a45f\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe.config
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master-f1b90d904482f362e8e29e1f3ef7a01f11b3a45f\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master-f1b90d904482f362e8e29e1f3ef7a01f11b3a45f\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.pdb
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master-f1b90d904482f362e8e29e1f3ef7a01f11b3a45f\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master-f1b90d904482f362e8e29e1f3ef7a01f11b3a45f\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.pdb
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master-f1b90d904482f362e8e29e1f3ef7a01f11b3a45f\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.dll
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master-f1b90d904482f362e8e29e1f3ef7a01f11b3a45f\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.xml
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master-f1b90d904482f362e8e29e1f3ef7a01f11b3a45f\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master-f1b90d904482f362e8e29e1f3ef7a01f11b3a45f\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.LegoMindstormsForm.resources
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master-f1b90d904482f362e8e29e1f3ef7a01f11b3a45f\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.Properties.Resources.resources
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master-f1b90d904482f362e8e29e1f3ef7a01f11b3a45f\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.GenerateResource.Cache
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe.config
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.pdb
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.pdb
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.dll
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.xml
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.LegoMindstormsForm.resources
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.Properties.Resources.resources
+C:\Users\Ammar\Desktop\ICT\FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.GenerateResource.Cache
+C:\Users\Ammar\Desktop\ICT\Year_1\Block_4\FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe.config
+C:\Users\Ammar\Desktop\ICT\Year_1\Block_4\FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.exe
+C:\Users\Ammar\Desktop\ICT\Year_1\Block_4\FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.pdb
+D:\Mohannads Bluetooth Challenge\BluetoothApp\2_FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe.config
+D:\Mohannads Bluetooth Challenge\BluetoothApp\2_FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.exe
+D:\Mohannads Bluetooth Challenge\BluetoothApp\2_FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\bin\Debug\Example Lego Mindstorms Bluetooth.pdb
+D:\Mohannads Bluetooth Challenge\BluetoothApp\2_FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.dll
+D:\Mohannads Bluetooth Challenge\BluetoothApp\2_FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\bin\Debug\EV3MessengerLib.xml
+D:\Mohannads Bluetooth Challenge\BluetoothApp\2_FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csprojAssemblyReference.cache
+D:\Mohannads Bluetooth Challenge\BluetoothApp\2_FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.LegoMindstormsForm.resources
+D:\Mohannads Bluetooth Challenge\BluetoothApp\2_FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\obj\Debug\Example_Lego_Mindstorms_Bluetooth.Properties.Resources.resources
+D:\Mohannads Bluetooth Challenge\BluetoothApp\2_FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.GenerateResource.cache
+D:\Mohannads Bluetooth Challenge\BluetoothApp\2_FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.CoreCompileInputs.cache
+D:\Mohannads Bluetooth Challenge\BluetoothApp\2_FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.csproj.CopyComplete
+D:\Mohannads Bluetooth Challenge\BluetoothApp\2_FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.exe
+D:\Mohannads Bluetooth Challenge\BluetoothApp\2_FIS 2\my program\Robot-master\Example Lego Mindstorms Bluetooth\obj\Debug\Example Lego Mindstorms Bluetooth.pdb
